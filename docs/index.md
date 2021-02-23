@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### warera.ml - リンク
 [ホーム](https://www.warera.ml)
 
+[HR.Snow](https://hrsnow.warera.ml)
+
 [Fortnite-LobbyBot](https://fnbot.warera.ml)
 
 [fnitems](http://fnitems.warera.ml)
