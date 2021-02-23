@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/HRTK92/warera-github/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### リンク
+### warera.ml - リンク
 [ホーム](https://www.warera.ml)
 
 [Fortnite-LobbyBot](https://fnbot.warera.ml)
