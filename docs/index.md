@@ -18,5 +18,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [![](https://raw.githubusercontent.com/HRTK92/HRTK92/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/HRTK92/HRTK92/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![](https://raw.githubusercontent.com/HRTK92/HRTK92/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
