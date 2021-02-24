@@ -16,7 +16,7 @@ You can use the [editor on GitHub](https://github.com/HRTK92/warera-github/edit/
 
 ### ツール
 
-[HTML viewer](https://links.warera.ml/html_viewer.html/)
+[HTML viewer](https://links.warera.ml/html_viewer.html)
 
 
 ### HRTK92 - Github
