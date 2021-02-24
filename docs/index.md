@@ -10,13 +10,13 @@ You can use the [editor on GitHub](https://github.com/HRTK92/warera-github/edit/
 
 [HR.Snow](https://hrsnow.warera.ml)
 
+[fnitems](https://fnitems.warera.ml)
+
 [Fortnite-LobbyBot](https://fnbot.warera.ml)
 
-[fnitems](http://fnitems.warera.ml)
-
-
 ### ツール
-[HTML viewer](/html_viewer.html/)
+
+[HTML viewer](https://links.warera.ml/html_viewer.html/)
 
 
 ### HRTK92 - Github
