@@ -19,7 +19,7 @@ You can use the [editor on GitHub](https://github.com/HRTK92/warera-github/edit/
 [HTML viewer](https://links.warera.ml/html_viewer.html)
 
 
-### HRTK92 - Github
+### [HRTK92](https://github.com/HRTK92) - Github
 
 [![](https://raw.githubusercontent.com/HRTK92/HRTK92/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
