@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: 我らのサイト
 lang: ja-JP
+google_analytics: ${{ secrets.google_analytics }}
 plugins:
  - jekyll-sitemap
