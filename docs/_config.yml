@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: 我らのサイト
 lang: ja-JP
+plugins:
+ - jekyll-sitemap
