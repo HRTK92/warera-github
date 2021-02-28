@@ -18,6 +18,8 @@ You can use the [editor on GitHub](https://github.com/HRTK92/warera-github/edit/
 
 [HTML viewer](https://home.warera.ml/html_viewer.html)
 
+[ファイルアップ](https://www.warera.ml/upld/)
+
 
 ### [HRTK92](https://github.com/HRTK92) - Github
 
